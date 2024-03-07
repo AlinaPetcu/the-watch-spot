@@ -27,7 +27,7 @@
     "posthtml-include": "^2.0.1"
   },
   "browserslist": [
-    "defaults and fully supports es6-module",
+    "last 2 versions",
     "maintained node versions"
   ]
 }
