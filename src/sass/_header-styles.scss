@@ -1,4 +1,4 @@
-/* Styles for Header - Bogdan PANA & Milincu PATRIK */
+
 * {
   box-sizing: border-box;
 }
@@ -32,6 +32,7 @@ body {
   display: flex;
   justify-content: space-between;
 }
+
 
 .header-link {
   text-decoration: none;
@@ -137,7 +138,10 @@ body {
   border-color: #fff;
 }
 
+
 /* CASCADING END */
+
+
 
 .js-menu-container {
   display: none;
@@ -151,6 +155,7 @@ body {
   max-width: 375px;
   width: 100%;
 }
+
 
 .js-menu-container {
   display: flex;
@@ -170,6 +175,7 @@ body {
 .js-menu-container.is-open {
   right: 0;
 }
+
 
 .js-menu-container .js-close-menu {
   border: none;
@@ -324,7 +330,10 @@ body {
   .welcome-section-about-info {
     padding-bottom: 150px;
   }
+
 }
+
+
 
 @media screen and (min-width: 1158px) {
   .header-logo-menu-container {
@@ -356,4 +365,5 @@ body {
     position: relative;
     right: -20px;
   }
+  
 }
