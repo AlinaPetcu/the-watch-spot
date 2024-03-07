@@ -27,7 +27,7 @@
     "posthtml-include": "^2.0.1"
   },
   "browserslist": [
-    "last 2 versions",
+    "defaults and last 2 versions",
     "maintained node versions"
   ]
 }
